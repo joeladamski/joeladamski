@@ -2,6 +2,9 @@
 
 ## System Behavior Architect · Agentic AI Governance · Narrative Intelligence
 
+> Most people are using AI.  
+> I’m designing the systems that decide how AI gets used.
+
 I design and operate **AI-native systems** where behavior, governance, and infrastructure are treated as one architecture.
 
 My work sits at the intersection of:
