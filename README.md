@@ -44,6 +44,11 @@ I focus on building systems that are not just functional today, but **adaptable 
 
 ## Active systems / projects
 
+- **Systems in Motion (Servd.Pro)**
+  - Building AI-powered real-world feedback loops
+  - Translating live operational signals into adaptive automation
+  - Connecting agent behavior to measurable outcomes in production
+
 - **AI Platform Ecosystem Blueprints**
   - Reference architectures for composable AI stacks
   - Governance + observability + automation patterns
@@ -93,6 +98,18 @@ This stack is built to support **modular deployment, governance control points, 
 - Narrative-state evaluation for long-running AI sessions
 - Lightweight operational telemetry standards for AI-native services
 - Community signal extraction pipelines for adaptive automation
+- Governance-first AI moderation systems for cross-platform communities
+- Narrative intelligence pipelines that synchronize context across platforms
+
+---
+
+## System operator principles
+
+- Design from the system boundary first: orchestration, governance, and runtime observability are one architecture
+- Build modular containerized services that can scale horizontally with consistent contracts
+- Keep all credentials and runtime configuration in environment variables
+- Assume Traefik as the reverse-proxy control plane with shared `proxy` and `backend` networks
+- Prioritize clean architecture with explicit separation of config, domain logic, integrations, and ops tooling
 
 ---
 
